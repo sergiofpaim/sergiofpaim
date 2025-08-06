@@ -1,8 +1,8 @@
 # 👋 Hello, I’m Sérgio Filho Paim!  
-## Welcome to my profile 👍
+## Welcome to my profile 
 
 ### 💻 Developer in training focused on C#, Java, Web & Game development  
-### 🎓 Computer Science student at UFU — active member of ASCII Jr. (the university’s junior IT consultancy)  
+### 🎓 Information Systems student at UFU — active member of ASCII Jr. (the university’s junior IT consultancy)  
 ### 🌱 Always learning: React, Next.js, Nuxt.js, RESTful APIs, SQL & NoSQL databases  
 ### 💡 Interested in modular architectures, cloud data stores, interactive UIs, and teamwork  
 
