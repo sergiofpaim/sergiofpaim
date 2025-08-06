@@ -1,8 +1,6 @@
-# Sérgio Filho Garcia Paim  
+# Software Developer | Information Systems Student | Tech Enthusiast  
 
-### Software Developer | Information Systems Student | Tech Enthusiast  
-
-I'm a passionate developer building robust solutions with modern technologies. Currently advancing my skills in full-stack development while studying Information Systems at UFU. As an active member of ASCII. (our university's IT Jr company), I thrive in collaborative environments solving real-world tech challenges.
+I'm a passionate developer building robust solutions with modern technologies. Currently advancing my skills in full-stack development while studying Information Systems at UFU. As an active member of ASCII. (our university's IT Jr Enterprise), I thrive in collaborative environments solving real-world tech challenges.
 
 ---
 
@@ -30,7 +28,7 @@ I'm currently deepening my expertise in:
 
 ## Education & Community  
 - **B.S. Information Systems** at Federal University of Uberlândia (UFU)  
-- **Developer** at [ASCII Jr.](https://asciijr.com.br/)  
+- **Developer** at [ASCII Jr.](https://asciiej.com.br/)  
 - Passionate about knowledge-sharing and collaborative problem-solving  
 
 ---
@@ -39,8 +37,12 @@ I'm currently deepening my expertise in:
 
 I'm always open to discussing tech, collaboration opportunities, or innovative projects:  
 
-[![Email](https://img.shields.io/badge/-sergio.filho@outlook.com-0078D4?style=flat&logo=microsoft-outlook&logoColor=white)](mailto:sergio.filho@outlook.com)
-[![LinkedIn](https://img.shields.io/badge/-/in/sergiofilhopaim-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sergiofilhopaim)
+<a href="mailto:sergio.filho@outlook.com" style="margin-right: 10px;">
+  <img src="https://img.icons8.com/color/48/000000/microsoft-outlook-2019--v1.png" alt="Email" width="32">
+</a>
+<a href="https://www.linkedin.com/in/sergiofilhopaim">
+  <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="32">
+</a>
 
 ---
 
