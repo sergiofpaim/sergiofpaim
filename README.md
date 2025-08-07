@@ -1,4 +1,4 @@
-# Software Developer | Information Systems Student | Tech Enthusiast  
+# Software Developer | Information Systems Student
 
 I'm a passionate developer building robust solutions with modern technologies. Currently advancing my skills in full-stack development while studying Information Systems at UFU. As an active member of ASCII. (our university's IT Jr Enterprise), I thrive in collaborative environments solving real-world tech challenges.
 
