@@ -29,11 +29,10 @@ I'm currently deepening my expertise in:
 ## Education & Community  
 - **B.S. Information Systems** at Federal University of Uberlândia (UFU)  
 - **Director** at [ASCII Jr.](https://asciiej.com.br/)  
-- Passionate about knowledge-sharing and collaborative problem-solving  
 
 ---
 
-## 📬 Let's Connect!  
+## Let's Connect!  
 
 I'm always open to discussing tech, collaboration opportunities, or innovative projects:  
 
