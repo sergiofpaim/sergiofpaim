@@ -32,9 +32,9 @@ I'm a passionate developer building robust solutions with modern technologies. C
 ## Current Focus  
 
 I'm currently deepening my expertise in:  
-- Modern React ecosystems (Next.js/Nuxt.js)  
 - RESTful API design and implementation  
-- Database architecture (SQL & NoSQL solutions)  
+- Database architecture (SQL & NoSQL solutions)
+- Modern React ecosystems (Next.js/Nuxt.js)  
 
 ---
 
