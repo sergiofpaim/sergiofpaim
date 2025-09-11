@@ -6,8 +6,6 @@ I'm a passionate developer building robust solutions with modern technologies. C
 
 ## Tech Stack
 
-## Languages & Frameworks  
-
 **Languages**  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="30" height="30" alt="C#"/> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="30" height="30" alt="Java"/>
