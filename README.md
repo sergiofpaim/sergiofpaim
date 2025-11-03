@@ -28,7 +28,7 @@ I'm a passionate developer building robust solutions with modern technologies. C
 
 **Data & Infrastructure**  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="30" height="30" alt="MongoDB"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cosmosdb/cosmosdb-plain.svg" width="30" height="30" alt="CosmosDB"/> 
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Azure_Cosmos_DB.svg" width="30" height="30" alt="Azure Cosmos DB"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="30" height="30" alt="SQL Server"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="30" height="30" alt="PostgreSQL"/>
 
