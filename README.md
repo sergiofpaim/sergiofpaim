@@ -44,7 +44,7 @@ I'm currently deepening my expertise in:
 
 ## Education & Community  
 - **B.S. Information Systems** at Federal University of Uberlândia (UFU)  
-- **Director** at [ASCII Jr.](https://asciiej.com.br/)  
+- **Software Developer** at [ASCII Jr.](https://asciiej.com.br/)  
 
 ---
 
