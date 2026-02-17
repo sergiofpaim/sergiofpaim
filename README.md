@@ -15,7 +15,6 @@ I'm a passionate developer building robust solutions with modern technologies. C
 **Core Development**  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="30" height="30" alt="Entity Framework"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="30" height="30" alt="Node.js"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" width="30" height="30" alt="Prisma"/>
 <img src="https://logo.svgcdn.com/l/nestjs.svg" width="30" height="30" alt="NestJS"/>
 
 
@@ -23,7 +22,6 @@ I'm a passionate developer building robust solutions with modern technologies. C
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="30" height="30" alt="React"/> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="30" height="30" alt="Next.js"/> 
 <img src="https://raw.githubusercontent.com/reduxjs/redux/master/logo/logo.png" width="30" height="30" alt="Redux"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" width="30" height="30" alt="Nuxt.js"/> 
 
 
 **Data & Infrastructure**  
@@ -32,13 +30,8 @@ I'm a passionate developer building robust solutions with modern technologies. C
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="30" height="30" alt="SQL Server"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="30" height="30" alt="PostgreSQL"/>
 
----
-
-## Current Focus  
-
-I'm currently deepening my expertise in:  
-- RESTful API design and implementation  
-- Database architecture (SQL & NoSQL solutions)
+**Cloud Services**  
+<img src="https://img.icons8.com/color/48/amazon-web-services.png" width="30" height="30" alt="EC2"/>
 
 ---
 
