@@ -49,12 +49,3 @@ I'm a passionate developer building robust solutions with modern technologies. C
 <a href="https://www.linkedin.com/in/sergiofilhopaim">
   <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="32">
 </a>
-
----
-
-## Profile Insights  
-
-<div align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=sergiofpaim&show_icons=true&theme=dark&count_private=true&hide_border=true&bg_color=00000000"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sergiofpaim&layout=compact&theme=dark&hide_border=true&bg_color=00000000"/>
-</div>
