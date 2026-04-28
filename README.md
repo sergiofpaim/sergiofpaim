@@ -1,36 +1,47 @@
 # Software Developer | Information Systems Student
 
-I'm a passionate developer building robust solutions with modern technologies. Currently advancing my skills in full-stack development while studying Information Systems at UFU. As an active member of ASCII. (our university's IT Jr Enterprise), I thrive in collaborative environments solving real-world tech challenges.
+I'm a passionate developer building robust solutions with modern technologies. Currently advancing my skills in full-stack development while studying Information Systems at UFU. As an active member of ASCII (our university's IT Jr Enterprise), I thrive in collaborative environments solving real-world tech challenges.
 
 ---
 
 ## Tech Stack
 
-**Languages**  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="30" height="30" alt="C#"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="30" height="30" alt="Java"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30" height="30" alt="Python"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="30" height="30" alt="TypeScript"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30" height="30" alt="JavaScript"/>
+### Languages
+<p align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="30"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="30"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="30"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30"/>
+</p>
 
-**Backend / Core Development**  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="30" height="30" alt="Spring"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="30" height="30" alt=".NET"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="30" height="30" alt="Node.js"/>
+### Backend / Core Development
+<p align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="30"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="30"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="30"/>
+</p>
 
-**Frontend / Web Technologies**  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="30" height="30" alt="React"/> 
-<img src="https://raw.githubusercontent.com/reduxjs/redux/master/logo/logo.png" width="30" height="30" alt="Redux"/>
+### Frontend / Web Technologies
+<p align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="30"/>
+<img src="https://raw.githubusercontent.com/reduxjs/redux/master/logo/logo.png" width="30"/>
+</p>
 
-**Databases**  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="30" height="30" alt="MongoDB"/> 
-<img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Azure_Cosmos_DB.svg" width="30" height="30" alt="Azure Cosmos DB"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="30" height="30" alt="SQL Server"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="30" height="30" alt="PostgreSQL"/>
+### Databases
+<p align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="30"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Azure_Cosmos_DB.svg" width="30"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="30"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="30"/>
+</p>
 
-**Infrastructure & Cloud**  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="30" height="30" alt="Docker"/>
-<img src="https://img.icons8.com/color/48/amazon-web-services.png" width="30" height="30" alt="AWS"/>
+### Infrastructure & Cloud
+<p align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="30"/>
+<img src="https://img.icons8.com/color/48/amazon-web-services.png" width="30"/>
+</p>
+
 ---
 
 ## Education & Community  
@@ -39,11 +50,13 @@ I'm a passionate developer building robust solutions with modern technologies. C
 
 ---
 
-## Let's Connect!  
+## Let's Connect!
 
-<a href="mailto:sergio.filho@outlook.com" style="margin-right: 10px;">
-  <img src="https://img.icons8.com/color/48/000000/microsoft-outlook-2019--v1.png" alt="Email" width="32">
+<p align="left">
+<a href="mailto:sergio.filho@outlook.com">
+<img src="https://img.icons8.com/color/48/000000/microsoft-outlook-2019--v1.png" width="32"/>
 </a>
 <a href="https://www.linkedin.com/in/sergiofilhopaim">
-  <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="32">
+<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="32"/>
 </a>
+</p>
