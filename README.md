@@ -44,9 +44,8 @@ I'm a passionate developer building robust solutions with modern technologies. C
 
 ---
 
-## Education & Community  
+## Education
 - **B.S. Information Systems** at Federal University of Uberlândia (UFU)  
-- **Technical Lead & Software Developer** at [ASCII Jr.](https://asciiej.com.br/)  
 
 ---
 
