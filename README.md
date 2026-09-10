@@ -7,6 +7,7 @@ I'm a passionate developer building robust solutions with modern technologies. C
 ## Tech Stack
 
 ### Languages
+
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="30"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="30"/>
@@ -16,6 +17,7 @@ I'm a passionate developer building robust solutions with modern technologies. C
 </p>
 
 ### Backend / Core Development
+
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="30"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="30"/>
@@ -23,12 +25,14 @@ I'm a passionate developer building robust solutions with modern technologies. C
 </p>
 
 ### Frontend / Web Technologies
+
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="30"/>
 <img src="https://raw.githubusercontent.com/reduxjs/redux/master/logo/logo.png" width="30"/>
 </p>
 
 ### Databases
+
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="30"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Azure_Cosmos_DB.svg" width="30"/>
@@ -37,15 +41,18 @@ I'm a passionate developer building robust solutions with modern technologies. C
 </p>
 
 ### Infrastructure & Cloud
+
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="30"/>
 <img src="https://img.icons8.com/color/48/amazon-web-services.png" width="30"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="30"/>
 </p>
 
 ---
 
 ## Education
-- **B.S. Information Systems** at Federal University of Uberlândia (UFU)  
+
+* **B.S. Computer Information Systems** at Federal University of Uberlândia (UFU)
 
 ---
 
