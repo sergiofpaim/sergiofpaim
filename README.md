@@ -1,6 +1,6 @@
 # Software Developer | Information Systems Student
 
-I'm a passionate developer building robust solutions with modern technologies. Currently advancing my skills in full-stack development while studying Information Systems at UFU. As an active member of ASCII (our university's IT Jr Enterprise), I thrive in collaborative environments solving real-world tech challenges.
+I'm a passionate developer focused on building robust solutions using modern technologies. Currently working at Bradesco, a private bank, while developing my skills in full-stack development and pursuing a degree in Information Systems at UFU. I thrive in collaborative environments, where I can solve real-world technical challenges.
 
 ---
 
@@ -52,7 +52,7 @@ I'm a passionate developer building robust solutions with modern technologies. C
 
 ## Education
 
-* **B.S. Computer Information Systems** at Federal University of Uberlândia (UFU)
+* **B.S. in Computer Information Systems** at Federal University of Uberlândia (UFU)
 
 ---
 
